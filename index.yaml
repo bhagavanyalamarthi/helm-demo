@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstrel:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-08T12:45:45.165868315Z"
+    description: A Helm chart for Kubernetes
+    digest: 23733e06251ac7cd4f2a0e462d97fac49b5efa45bede40dfc3c88701c75d08ef
+    name: firstrel
+    type: application
+    urls:
+    - firstrel-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-08T12:45:45.165127958Z"
